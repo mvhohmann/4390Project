@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace _4390Project.Pages;
-
 public class IndexModel : PageModel
 {
     private readonly ILogger<IndexModel> _logger;
